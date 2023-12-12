@@ -1,0 +1,89 @@
+body {
+  background-color: #0c0c0d;
+  color: aliceblue;
+}
+
+a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+#light {
+  color: aliceblue;
+  background-color: #4e4e4e;
+}
+
+#dark {
+  color: #f5f5f5;
+  background-color: #0c0c0d;
+}
+
+#dark #topNav {
+  background-color: #0c0c0d;
+  color: aliceblue;
+}
+
+#light #topNav {
+  background-color: #1A1A1A;
+  color: aliceblue;
+}
+
+#dark #HeroSection {
+  background-color: #1A1A1A;
+  color: aliceblue;
+}
+
+#light #HeroSection {
+  background-color: #0c0c0d;
+  color: aliceblue;
+}
+
+#dark #AboutSection {
+  background-color: #1A1A1A;
+  color: aliceblue;
+}
+
+#light #AboutSection {
+  background-color: #0c0c0d;
+  color: aliceblue;
+}
+
+#dark #postCards {
+  background-color: #1A1A1A;
+  color: aliceblue;
+}
+
+#light #postCards {
+  background-color: #0c0c0d;
+  color: aliceblue;
+}
+
+#dark #postContent {
+  background-color: #1A1A1A;
+  color: aliceblue;
+}
+
+#light #postContent {
+  background-color: #3c096c;
+  color: aliceblue;
+}
+
+#dark #Comment {
+  background-color: #424141;
+  color: aliceblue;
+}
+
+#light #Comment {
+  background-color: #7b2cbf;
+  color: white;
+}
+
+img {
+  max-width: 100%;
+}
+
+@media (max-width: 768px) {
+  img {
+    display: none;
+  }
+}
